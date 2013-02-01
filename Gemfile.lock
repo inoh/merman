@@ -124,6 +124,7 @@ PLATFORMS
 
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
+  commonjs
   jquery-rails
   less-rails-bootstrap
   libv8 (~> 3.11.8)
